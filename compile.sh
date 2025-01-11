@@ -78,7 +78,7 @@ Icon=/home/$USER/Applications/aseprite/data/icons/ase64.png
 
 Categories=Graphics;3DGraphics
 StartupWMClass=aseprite
-EOL
+EOF
 
 echo "Desktop entry created"
 echo "Done compiling!"
