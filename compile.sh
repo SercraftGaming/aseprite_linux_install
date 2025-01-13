@@ -64,7 +64,7 @@ rm -rf deps
 mkdir -p ~/Applications/aseprite
 
 mv aseprite/build/bin aseprite/build/aseprite
-mv aseprite/build/aseprite ~/Applications/aseprite
+mv aseprite/build/aseprite ~/Applications
 
 touch /home/$USER/.local/share/applications/aseprite.desktop
 cat > "/home/$USER/.local/share/applications/aseprite.desktop" << EOF
